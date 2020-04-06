@@ -1,4 +1,4 @@
-## My-Python-Note
+## 前言
 
 通过《自学是门手艺》入门，学习Python的基本概念。之后有很多要做的事：
 > 1. 反复阅读官方教程[Python Official Tutorial](https://docs.python.org/3/tutorial/)
